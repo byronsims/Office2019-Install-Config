@@ -1,2 +1,4 @@
 # Office2019-Install-Config
-The xml required to install Office 2019 when using a Volume License
+The xmls required to download and install Office 2019 when using a Volume License.
+
+You will need the ODT to begin.
